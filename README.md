@@ -1,3 +1,6 @@
 # Cute_Tester
-Wisdom and beauty in life
-Literally write play, can climb to make taobao commodity pictures, download to make the catalog and commodity quantity
+
+这是一个淘宝商品图片和zol桌面壁纸的爬虫项目
+
+
+可以直接执行window.py文件，这是我用tkinter写的小窗口。
